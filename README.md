@@ -1,4 +1,4 @@
-![Bahasa Populer](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical)
+![Bahasa Populer](https://github-readme-stats.vercel.app/api/top-langs/?username=down-glitch&layout=compact&theme=radical)
 
 <!--
 **down-glitch/down-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
